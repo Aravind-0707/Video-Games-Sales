@@ -1,5 +1,4 @@
 # Video-Games-Sales
-# Videogames-2 Jupyter Notebook
 
 This repository contains a Jupyter Notebook file (`Videogames-2.ipynb`) designed for analyzing and exploring data related to video games. Below, you'll find details about the content of the notebook, along with instructions on how to set up and run it.
 
